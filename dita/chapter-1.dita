@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_b54_3kt_bdc">
+    <title>Chapter 1</title>
+    <shortdesc>Three bears lived as a family together! There was a Little Wee Bear, a Middle-Sized
+        Bear, and a Great Big Bear.</shortdesc>
+    <body>
+        <section id="section_bqt_rpn_ddc">
+            <title>The Three Bears</title>
+            <p>Once upon a time there were three Bears, who lived together in a house of their own,
+                in a wood.</p>
+            <p>One of them was a Little Wee Bear, and one was a Middle-sized Bear, and the other was
+                a <ph audience="adult">scary </ph>Great Big Bear.</p>
+            <p><b><i><ph audience="child">The happy family of three bears</ph><ph audience="adult"
+                            >The scary Great Big Bear</ph></i></b><fig id="fig_frx_5pn_ddc">
+                    <image href="threebears.jpg" id="image_kfs_bqn_ddc" audience="child"
+                        alt="picture of three cute stuffed bears sitting together, all of different sizes"/>
+                    <p>
+                        <fig id="fig_zpq_yqn_ddc">
+                            <image href="bigscarybear.jpg" id="image_z2v_zqn_ddc" audience="adult"
+                                alt="picture of a big, scary, angry brown bear roaring into the distance"
+                            />
+                        </fig>
+                    </p>
+                </fig></p>
+        </section>
+        <section id="section_wv1_frn_ddc">
+            <title>The Belongings of the Bears</title>
+            <p>They had each a bowl for their porridge; a little bowl for the Little Wee Bear; and a
+                middle-sized bowl for the Middle-sized Bear; and a great bowl for the Great Big
+                Bear. </p>
+            <p>And they had each a chair to sit in; a little chair for the Little Wee Bear; and a
+                middle-sized chair for the Middle-sized Bear; and a great chair for the Great Big
+                Bear. </p>
+            <p>And they had each a bed to sleep in; a little bed for the Little Wee Bear<ph
+                    audience="child"> (the Little Wee Bear liked to keep a stash of sweet snacks
+                    under its little bed)</ph>; and a middle-sized bed for the Middle-sized Bear<ph
+                    audience="adult"> (the Middle-sized Bear kept an AK-47 under its bed, in case of
+                    an intruder)</ph>; and a great bed for the Great Big Bear.</p>
+        </section>
+        <section id="section_pmy_wrn_ddc">
+            <title>A Walk in the Woods</title>
+            <p>One day, after they had made the porridge for their breakfast, and poured it into
+                their porridge-bowls, they walked out into the wood while the porridge was cooling,
+                    <ph audience="child">that they might not burn their mouths by beginning too
+                    soon, for they were polite, well-brought-up Bears.</ph><ph audience="adult">to
+                    look for some unsuspecting fresh meat for their lunch!</ph></p>
+        </section>
+    </body>
+</topic>
