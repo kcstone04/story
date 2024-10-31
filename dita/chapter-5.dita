@@ -2,25 +2,31 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_p34_kpg_fdc">
     <title>Chapter 5</title>
-    <shortdesc/>
+    <shortdesc>The Three Bears are shocked again to find that somebody had been sitting in their
+        chairs!</shortdesc>
     <body>
         <section id="section_cw1_xpg_fdc">
             <title>The Bears Investigate Further</title>
             <p>Upon this the Three Bears, seeing that some one had entered their house, and eaten up
-                the Little Wee Bear's breakfast, began to look about them. Now the careless
-                Goldilocks had not put the hard cushion straight when she rose from the chair of the
-                Great Big Bear.</p>
+                the Little Wee Bear's breakfast, began to look about them. </p>
         </section>
         <section id="section_nfh_5pg_fdc">
             <title>The Chair <ph audience="adult">Incident</ph></title>
+            <p>Now the careless Goldilocks had not put the hard cushion straight when she rose from
+                the chair of the Great Big Bear.</p>
             <p>"SOMEBODY HAS BEEN SITTING IN MY CHAIR!"</p>
-            <p>said the Great Big Bear in his great, rough, gruff voice.</p>
+            <p><ph audience="child">said</ph><ph audience="adult">roared</ph> the Great Big Bear <ph
+                    audience="adult">angrily</ph> in his great, rough, gruff voice.</p>
             <p>And the careless Goldilocks had squatted down the soft cushion of the Middle-sized
                 Bear.</p>
             <p>"SOMEBODY HAS BEEN SITTING IN MY CHAIR!"</p>
             <p>said the Middle-sized Bear in his middle-sized voice.</p>
             <p>"SOMEBODY HAS BEEN SITTING IN MY CHAIR, AND HAS SATE THE BOTTOM THROUGH!"</p>
-            <p>said the Little Wee Bear in his little wee voice.</p>
+            <p>said the Little Wee Bear <ph audience="child">gently</ph> in his little wee
+                    voice.<fig id="fig_oqh_2vs_fdc">
+                    <p><b><i>The Little Wee Bear's poor broken chair</i></b><image
+                            href="broken-chair-2.jpg" id="image_tcm_fvs_fdc"/></p>
+                </fig></p>
         </section>
     </body>
 </topic>

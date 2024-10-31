@@ -2,26 +2,34 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_p34_kpg_fdc">
     <title>Chapter 3</title>
-    <shortdesc/>
+    <shortdesc>The Three Bears return home and are shocked to find that somebody ate their porridge! </shortdesc>
     <body>
         <section id="section_qtc_mpg_fdc">
             <title>The Return of the Bears</title>
             <p>By this time the Three Bears thought their porridge would be cool enough for them to
-                eat it properly; so they came home to breakfast. Now careless Goldilocks had left
-                the spoon of the Great Big Bear standing in his porridge.</p>
+                eat it properly; so they came home to breakfast. </p>
         </section>
         <section id="section_bsj_ppg_fdc">
             <title>The Porridge <ph audience="adult">Incident</ph></title>
+            <p>Now careless Goldilocks had left the spoon of the Great Big Bear standing in his
+                porridge.</p>
             <p>"SOMEBODY HAS BEEN AT MY PORRIDGE!"</p>
-            <p>said the Great Big Bear in his great, rough, gruff voice.</p>
+            <p><ph audience="child">said</ph><ph audience="adult">roared</ph> the Great Big Bear <ph
+                    audience="adult">angrily</ph> in his great, rough, gruff voice.</p>
             <p>Then the Middle-sized Bear looked at his porridge and saw the spoon was standing in
                 it too.</p>
-            <p>"SOMEBODY HAS BEEN AT MY PORRIDGE!"</p>
-            <p>said the Middle-sized Bear in his middle-sized voice.</p>
+            <p>"SOMEBODY HAS BEEN AT MY PORRIDGE! <ph audience="adult">NOBODY MESSES WITH MY
+                    PORRIDGE! I SWEAR I'M GOING TO KILL WHOEVER DID THIS!</ph>"</p>
+            <p>said the Middle-sized Bear in his middle-sized voice. <ph audience="adult">He is
+                    rather known for throwing fits if somebody messes with his porridge. </ph></p>
             <p>Then the Little Wee Bear looked at his, and there was the spoon in the porridge-bowl,
                 but the porridge was all gone!</p>
             <p>"SOMEBODY HAS BEEN AT MY PORRIDGE, AND HAS EATEN IT ALL UP!"</p>
-            <p>said the Little Wee Bear in his little wee voice.</p>
+            <p>said the Little Wee Bear <ph audience="child">gently</ph> in his little wee
+                    voice.<fig id="fig_pc2_gvs_fdc">
+                    <p><b><i>The Little Wee Bear's sad empty porridge bowl</i></b><image
+                            href="empty-porridge.png" id="image_d3h_hvs_fdc"/></p>
+                </fig></p>
         </section>
     </body>
 </topic>
