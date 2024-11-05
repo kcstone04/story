@@ -14,7 +14,8 @@
             <p><b><i><ph audience="child">The happy family of three bears</ph><ph audience="adult"
                             >The scary Great Big Bear</ph></i></b><fig id="fig_frx_5pn_ddc">
                     <image href="threebears.jpg" id="image_kfs_bqn_ddc" audience="child"
-                        alt="picture of three cute stuffed bears sitting together, all of different sizes"/>
+                        alt="picture of three cute stuffed bears sitting together, all of different sizes"
+                        scale="50"/>
                     <p>
                         <fig id="fig_zpq_yqn_ddc">
                             <image href="bigscarybear.jpg" id="image_z2v_zqn_ddc" audience="adult"
