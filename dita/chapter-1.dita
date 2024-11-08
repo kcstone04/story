@@ -20,7 +20,7 @@
                         <fig id="fig_zpq_yqn_ddc">
                             <image href="bigscarybear.jpg" id="image_z2v_zqn_ddc" audience="adult"
                                 alt="picture of a big, scary, angry brown bear roaring into the distance"
-                            />
+                                scale="50"/>
                         </fig>
                     </p>
                 </fig></p>

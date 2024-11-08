@@ -33,7 +33,7 @@
             <p><b><i>The Three Bears find Goldilocks</i></b><fig id="fig_t1m_yb4_fdc">
                     <image href="goldilocks-and-the-three-bears-1.jpg" id="image_xqy_yb4_fdc"
                         alt="the Little Wee Bear points at Goldilocks sleeping in his bed, with the other two bears looking shocked"
-                    />
+                        scale="50"/>
                 </fig></p>
         </section>
     </body>

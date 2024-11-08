@@ -12,7 +12,7 @@
             <p><b><i>Goldilocks</i></b><fig id="fig_d3r_wtn_ddc">
                     <image href="goldilocks.jpg" id="image_er4_xtn_ddc"
                         alt="goldilocks, a young girl with blonde hair, blue eyes, wearing a blue and white dress"
-                    />
+                        scale="35"/>
                 </fig></p>
             <p>And then she peeped in at the keyhole, for she was not at all a well-brought-up
                 little girl. Then seeing nobody in the house she lifted the latch.</p>
